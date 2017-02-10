@@ -1,0 +1,18 @@
+{
+  "name": "enduro",
+  "version": "1.2.14",
+  "dependencies": {
+    "s3": {
+      "version": "4.4.0",
+      "from": "s3@>=4.4.0 <5.0.0",
+      "resolved": "https://registry.npmjs.org/s3/-/s3-4.4.0.tgz",
+      "dependencies": {
+        "aws-sdk": {
+          "version": "2.11.0",
+          "from": "aws-sdk@2.11.0",
+          "resolved": "https://registry.npmjs.org/aws-sdk/-/aws-sdk-2.11.0.tgz"
+        }
+      }
+    }
+  }
+}
